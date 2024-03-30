@@ -17,7 +17,7 @@ function Bio() {
 
           }} src={musawir}alt="HTML5" />
           <h3>Hi i'm <span className='mupashir' > mr.{name}</span></h3>
-          <p> I'm a software developer who develops both UX and UI.</p>
+          <p> I'm a software developer who develops both front-end and back-end.</p>
         </li>
 
       </ul>
